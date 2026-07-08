@@ -1,0 +1,19 @@
+Advanced Breast Cancer Detection (Mammogram)
+******************************************
+Algorithm / Model Used: Xception model
+
+Accuracy train score: 96%
+Accuracy test score: 90%
+******************************************
+Algorithm / Model Used: MobileNet model
+
+Accuracy train score: 96%
+Accuracy test score: 94%
+******************************************
+Advanced Breast Cancer Detection (Histopathology)
+******************************************
+Algorithm / Model Used : DenseNet201 Architecture.
+
+Training Accuracy:98.00%.
+Validation Accuracy:88.00%.
+***************************************************
